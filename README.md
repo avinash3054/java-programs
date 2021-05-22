@@ -2,4 +2,4 @@
 Sem IV java programs 
 
 
-All collaborate programs here
+All collaborate java programs here

@@ -1,0 +1,4 @@
+class Week1B2 {
+
+  public static void main(String[] args) {}
+}

@@ -1,5 +1,19 @@
 # java-programs
-Sem IV java programs 
 
+Sem IV java programs
 
 All collaborate java programs here
+
+## Programs
+
+### Week1
+
+1.  a) Implement the following programs using command line arguments
+          i) Accept two strings from the user and print it on console with concatenation of “ and ” in the middle of the strings.
+
+          ii) Accept 12-hour time zone and convert into its corresponding 24-hour time zone.
+
+          Note: Accept hours, minutes and seconds separately from the user (e.g. 07 05 45 PM should be displayed as 19:05:45).
+
+          iii) Accept a number ‘n’ and print the list of ‘n’ Fibonacci terms recursively.
+    b) Perform the above programs using Scanner class.
